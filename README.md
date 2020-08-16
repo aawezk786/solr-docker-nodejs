@@ -1,0 +1,1 @@
+# solr-docker-nodejs
